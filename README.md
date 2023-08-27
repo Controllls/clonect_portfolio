@@ -9,20 +9,13 @@
 <br />
 
 # ScreenShot
-![image]()
-
 <div>
 <img src="https://github.com/Controllls/clonect_portfolio/assets/53941701/fbf4b81d-b473-42bb-b5b3-a7c2bbb8b313" width="200" height="400"/>
 <img src="https://github.com/Controllls/clonect_portfolio/assets/53941701/fc8ae5b6-049d-4ff7-a1bd-01b74e3ee8bd" width="200" height="400"/>
 </div>
 
-# Video
-
-# 플레이스토어 배포
-<div>
-<img src="https://user-images.githubusercontent.com/53941701/232288295-6bda59f7-6150-4170-bbdf-65e548ae9bc1.png" width="200" height="400"/>
-</div>
-
+# ERD 설계도
+<img src="https://github.com/Controllls/clonect_portfolio/assets/53941701/dcee38f8-fcad-4d0e-85b3-3e1b2791c3f6" width="800" height="600"/>
 
 
 # clonect_portfolio
