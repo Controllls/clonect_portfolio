@@ -18,5 +18,5 @@
 <img src="https://github.com/Controllls/clonect_portfolio/assets/53941701/dcee38f8-fcad-4d0e-85b3-3e1b2791c3f6" width="800" height="600"/>
 
 
-# clonect_portfolio
+# 앱 설계
 <img width="599" alt="스크린샷 2023-04-17 오후 3 55 58" src="https://user-images.githubusercontent.com/53941701/232407793-f36b5395-3555-400d-a142-e2dcdd9e22b5.png">
